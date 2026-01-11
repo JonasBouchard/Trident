@@ -15,8 +15,9 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/kl
   - Left: Green  
   - Right: Yellow  
 
-- **RapidBurner LED wires (board → nozzle → logo)**  
+- **RapidBurner LED wires (board → nozzle 1 → nozzle 2 → logo)**
+  - ?
   - 10 mm  
-  - 120 mm  
+  - 120 mm
 
 - **RapidBurner post-extruder Bowden tube**: 31 mm

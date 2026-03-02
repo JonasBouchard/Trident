@@ -12,7 +12,7 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/kl
 - **Bowden tube**: 750 mm  
 
 - **Canbus orientation (arrows up)**  
-  - Left: Green  
+  - Left: Green/White
   - Right: Yellow  
 
 - **RapidBurner LED wires (board → nozzle 1 → nozzle 2 → logo)**
